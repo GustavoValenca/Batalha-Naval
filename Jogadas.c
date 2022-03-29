@@ -4,7 +4,7 @@
 # include <string.h>
 # include "estrutura.h"
 
-// Depende de util.c e estrutura.h
+/* Depende de util.c e estrutura.h */
 
 // 1) Função auxiliar
 // Retorna 1 se a jogada do humano for válida e 0 caso contrário
