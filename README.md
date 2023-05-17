@@ -1,6 +1,6 @@
 # Batalha Naval
 <div>
-Trabalho final de Programação.
+Trabalho final da disciplina de Programação (CK0226).
 
 **Vídeo de explicação do código:** https://www.youtube.com/watch?v=1q_F8VoqggM&t=1s
 
